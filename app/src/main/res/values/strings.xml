@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">forth</string>
+    <string name="hint_txt">Input RMB</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_opencfg_label">Config</string>
+    <string name="btn_save_label">Save</string>
+    <string name="menu_set_label">setting</string>
+    <string name="label_open_list">OpenList</string>
+
+</resources>
